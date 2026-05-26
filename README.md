@@ -1,3 +1,5 @@
+![Header Banner](header2.jpg)
+
 # Agentic Lab
 
 Agentic Lab is a lightweight builder system for people working in or entering AI who need serious work buddies, not passive networking.
@@ -129,6 +131,8 @@ Keep proposals concrete. A table without a clear outcome should not start.
 
 ## Sprint Rhythm
 
+![Sprint Rythm](sprint_rythm.jpg)
+
 ### 1. Daily Breadcrumbs
 
 No daily standups. No corporate reporting. Daily breadcrumbs are mandatory for participants to keep pulse of Liquid Builder Table.
@@ -238,6 +242,8 @@ This captures process lessons that help future tables work better.
 
 
 ## End-of-Sprint Decision
+
+![End of Sprint Decision](end_of_sprint_decision.jpg)
 
 Every table chooses one path.
 

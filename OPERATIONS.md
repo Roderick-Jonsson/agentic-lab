@@ -23,6 +23,8 @@ People who are actively working on AI topics, seriously invested on them have hi
 
 ## 3. Steward
 
+TODO: steawards should like Tables post bulletins or so and have a steward lab where they can exchange with others stewards globally and get some deep value from there as well that way there is incentive and return but organic way of fokusing on the basics networking through building with each other 
+
 ### Benefit
 
 Build macro understanding of lab topic environment
@@ -42,6 +44,7 @@ Steward status is held on a 60 day rolling basis during which he has to show ste
 * Summarize and impelment insights from the lab intelligence bulletin
 
 On inactivity the steward transitions back to Active participant.
+
 
 
 # Channel Structure
