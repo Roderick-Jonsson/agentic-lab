@@ -1,7 +1,7 @@
 # Main Goal
 
 - Produce 90% Value and high yields on critical job and career relevant needs for everyone with 10% admin overhead. Keep it lean.
-- Activity needs to be critical value for participants job and career to acces their priority
+- Activity needs to be critical value for participants job and career to acces their priority time
 
 # Groups
 

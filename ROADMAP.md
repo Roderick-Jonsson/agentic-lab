@@ -1,58 +1,77 @@
-# 🗺️ Agentic Lab Roadamp
+# 🗺️ Agentic Lab Roadmap
 
-Our master plan for scaling Agentic Lab from a core group of builders into a self-sustaining engine for shipping AI artefacts.
+A practical roadmap for growing Agentic Lab from a small curated seed group into a self-sustaining system for forming trusted builder tables and shipping AI artefacts.
 
 ---
 
-
 ## 📍 Milestone Progress
-
 
 | Status | ID | Milestone | Description / Deliverables |
 | :--- | :--- | :--- | :--- |
-| ⏳ **Planned**  | M1 | Initiation | Get Feedback on idea and recruit people for first table run |
-| ⏳ **Planned**  | M2 | Run First table |  |
-| ⏳ **Planned** | M3 | Implement Feedback | Discussing concept representations and posting initial sketches |
-| ⏳ **Planned** | M4 | Expand | Establishing basic visual, structural, and design guidelines |
+| ⏳ **Planned** | M1 | Check Demand | Get sharp feedback from selected builders before opening the concept wider. Validate whether the format is clear, useful, and worth joining. |
+| ⏳ **Planned** | M2 | Run First Liquid Builder Table | Launch the first curated 2-week table with 3–5 trusted builders around one concrete topic and one shipped artefact. |
+| ⏳ **Planned** | M3 | Implement Feedback | Review what worked, what failed, what was unclear, and what needs to change in the operating model, templates, and public explanation. |
+| ⏳ **Planned** | M4 | Expand Carefully | Invite the next wave of builders based on lessons from the first table. Keep quality high before scaling volume. |
 
-
+---
 
 ## 🟢 NOW (Active Focus)
-*The core infrastructure and systems we are actively deploying right now to get the first tables running.*
 
-*   **Alpha Cohort Launch** — Onboarding the first 15–20 high-signal AI builders.
-*   **Discord/Slack Workspace Architecture** — Setting up dedicated channels for Tracks 1, 2, and 3.
-*   **Template Automation** — Creating pinned snippets for *Daily Breadcrumbs* and *Weekly Heartbeats*.
-*   **Vetting Pipeline** — Establishing the manual screening process to filter out passive lurkers and product promoters.
+*The current focus is to avoid overbuilding in isolation and validate the concept with a small number of strong people.*
+
+* **Concept Sanity Check** — Ask 3–5 sharp builders for direct feedback on what is unclear, risky, too heavy, or missing.
+* **Core Explanation Cleanup** — Make the README, Operations, and Roadmap easy to understand for first-time readers.
+* **First Table Candidate List** — Identify 8–12 people who would be strong fits for the first curated Liquid Builder Table.
+* **First Table Topic Selection** — Choose one concrete topic with a realistic 2-week outcome.
+* **Feedback Before Launch** — Use early feedback to fix obvious friction before inviting people into the first pilot.
 
 ---
 
 ## 🟡 NEXT (Up Next)
-*Features and operations prioritized for the next 2–4 sprint cycles (Weeks 4–8).*
 
-*   **The Artifact Registry** — A central repository (GitHub or public Notion) archiving every *Liquid Builder Table Bulletin*.
-*   **Lab Intelligence Database** — Compiling *Lab Intelligence Bulletins* into a searchable wiki of "What works/What fails in AI dev."
-*   **Automated Table Formations** — Implementing simple bot triggers to help builders dynamically spin up/dissolve table channels.
-*   **Cross-Table Show & Tell** — Establishing a lightweight, bi-weekly live sync for tables to demo their 2-week shipped artefacts.
+*The next step is to run one real table, not build a huge community structure too early.*
+
+* **First Liquid Builder Table** — Run a 2-week pilot with 3–5 selected participants.
+* **Daily Breadcrumb Template** — Provide a lightweight async update format so people stay visible without creating meeting overhead.
+* **Weekly Heartbeat Template** — Create a simple weekly check-in format for progress, blockers, and next steps.
+* **End-of-Sprint Bulletin** — Publish a short summary of the artefact, lessons learned, contributors, and follow-up opportunities.
+* **Decision Point** — At the end of the sprint, decide whether to dissolve, remix, or extend the table once.
 
 ---
 
 ## 🔵 LATER (Future Horizons)
-*Long-term scaling ideas and strategic upgrades. Subject to change based on community feedback.*
 
-*   **Builder Reputation System** — Tracking table contributions and "vouched connections" without gamifying or adding vanity metrics.
-*   **Asynchronous Matchmaking Bot** — An internal tool that matches builders into Liquid Tables based on overlapping *Discovery Track* blockers.
-*   **Physical Builder Hubs** — Translating the 2-week liquid table sprint into weekend, in-person hack-sprints in major tech hubs.
-*   **Open-Source Lab Core** — Documenting and open-sourcing the Agentic Lab "Liquid System" framework for other builder communities to fork.
+*Long-term scaling ideas. These should only be built after the first tables prove the format works.*
+
+* **Artifact Registry** — A public or semi-public archive of shipped artefacts and Liquid Builder Table Bulletins.
+* **Lab Intelligence Archive** — A lightweight knowledge base of what worked, what failed, what people learned, and what should be repeated or avoided.
+* **Table Formation Process** — A simple way for builders to propose topics and form new 2-week tables.
+* **Steward Role** — Trusted contributors who help maintain table quality, reduce passive participation, and keep the Lab useful.
+* **Reputation Through Work** — Track visible contribution through shipped artefacts and useful participation, not vanity metrics.
+* **Physical Builder Sessions** — Optional in-person working sessions or weekend sprints once there is enough local density.
 
 ---
 
 ## 🎉 SHIPPED (System Milestones)
-*Foundational layers that are fully finalized and operational.*
 
-*   **The Blueprint** — Finalized the core philosophy, tracks, operational calendar, and guardrails.
-*   **Formatting Engine** — Designed the structure for Proposals, Breadcrumbs, Heartbeats, and Bulletins.
-*   **The One-Liner** — Cemented the vision: *A continuous 2-week remixable builder team system for serious AI practitioners.*
+*Foundational pieces that already exist or are mostly ready.*
+
+* **Core Concept** — Agentic Lab is built around trusted collaboration through visible work, shared blockers, and small shipped artefacts.
+* **Liquid Builder Table Model** — Temporary 2-week tables of 3–5 people around one topic and one outcome.
+* **Sprint Rhythm** — Daily breadcrumbs, weekly heartbeat, end-of-sprint bulletin, and a clear decision point.
+* **Short Visual Explainer** — A simple diagram explaining how people move from introduction to discovery, table work, shipping, and remixing.
+* **Initial Repository Structure** — The first version of the public repo exists and can now be used for feedback.
 
 ---
-💡 *Want to propose a structural change to the Lab? Drop a proposal in the **Discovery Track** using the system guidelines.*
+
+## 💡 Structural Changes
+
+Want to suggest a change to Agentic Lab?
+
+Open a proposal or give feedback focused on one of these:
+
+* What is unclear?
+* What feels too heavy?
+* What would stop strong builders from joining?
+* What should be fixed before the first pilot?
+* What would make a 2-week table actually useful?
