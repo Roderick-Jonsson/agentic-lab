@@ -8,7 +8,7 @@ A practical roadmap for growing Agentic Lab from a small curated seed group into
 
 | Status | ID | Milestone | Description / Deliverables |
 | :--- | :--- | :--- | :--- |
-| ⏳ **Planned** | M1 | Check Demand | Get sharp feedback from selected builders before opening the concept wider. Validate whether the format is clear, useful, and worth joining. |
+| ⏳ **Planned** | M1 | Pre Table Design Review | Get sharp feedback from selected builders before opening the concept wider. Validate whether the format is clear, useful, and worth joining. |
 | ⏳ **Planned** | M2 | Run First Liquid Builder Table | Launch the first curated 2-week table with 3–5 trusted builders around one concrete topic and one shipped artefact. |
 | ⏳ **Planned** | M3 | Implement Feedback | Review what worked, what failed, what was unclear, and what needs to change in the operating model, templates, and public explanation. |
 | ⏳ **Planned** | M4 | Expand Carefully | Invite the next wave of builders based on lessons from the first table. Keep quality high before scaling volume. |
