@@ -4,6 +4,9 @@
 
 Agentic Lab is a continous 2-week remixable builder team system for commited AI practitioners to find commited work buddies through visible work, shared blockers, and small shipped artefacts.
 
+Current status: Pilot v0.1
+We are not launching a full community yet. We are testing whether one 2-week Liquid Builder Table can help 3–5 serious builders make faster progress and ship one useful artefact.
+
 ## Core Idea
 
 Agentic Lab runs on **Liquid Builder Tables**.
