@@ -79,17 +79,18 @@ Example:
 
 ```text
 Worked on:
-Docker setup for the browser agent.
+Testing the Hermes agent setup.
 
 Found / learned:
-Container starts, but VNC does not expose the session correctly.
+Docker is too rigid for the current exploration phase. Every new ecosystem extension, dependency, or Hermes update creates rebuild overhead instead of helping me work with the agent.
 
 Next step:
-Check compose networking and port mapping.
+Use a virtual machine setup with snapshots, so experiments can move faster and failures are easy to roll back.
 
 Need input on:
-Anyone who has run browser automation in Docker with visible VNC.
+Has anyone found a low-friction way to run fast-changing agent stacks in Docker, or are VM snapshots the better exploration setup?
 ```
+
 
 Progress Signals make useful work visible while it is happening.
 
