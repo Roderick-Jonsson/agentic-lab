@@ -1,4 +1,4 @@
-![Header Banner](header2.jpg)
+![Header Banner](header.jpg)
 
 # Agentic Lab
 
@@ -40,7 +40,7 @@ If someone goes quiet for one week without contributing or posting the Weekly Ta
 
 The table stays active. The person can join a later table when timing fits better.
 
-![Table Rythm](sprint_rythm-v3.jpg)
+![Table Rythm](sprint_rythm.jpg)
 
 ## Table Rhythm
 
