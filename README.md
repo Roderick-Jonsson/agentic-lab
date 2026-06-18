@@ -50,7 +50,11 @@ Not allowed:
 
 Agentic Lab runs on **Team Tables**.
 
-A Team Table is a temporary 2-week squad of 3–5 people working on one concrete AI-related challenge.
+A Team Table is a temporary 2-week group of 3–5 serious builders exploring one concrete AI-related challenge area.
+
+The table is not a centralised project team. Participants choose their own angle inside the shared challenge, while using the group to exchange blockers, discoveries, setup notes, useful resources, and feedback.
+
+Example: in a table on setting up a personal Hermes agent baseline, one person may test Hermes Desktop, another Docker and another VM snapshots.
 
 Tables dissolve by default after 2 weeks unless there is a clear reason to renew or remix.
 
