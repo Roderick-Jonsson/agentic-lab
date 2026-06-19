@@ -74,6 +74,22 @@ Team Tables run on a simple two-week rhythm:
 
 The goal is to keep work visible, keep the table alive, and produce something useful with the least amount of admin and control.
 
+### Communication Structure
+
+For the first run, Agentic Lab keeps communication deliberately simple.
+
+The sprint happens in Slack:
+
+* **Welcome** — short member introductions: who you are, what you are working on, and what you want to build or learn
+* **Working table** — the active sprint channel for progress signals, blockers, decisions, findings, and output
+
+The working table is the centre of gravity.
+
+For the first run, notes and artefact material can be captured directly in Slack. At the end of the sprint, the table extracts the useful findings and decides what should stay internal and what should be cleaned up for public release on GitHub.
+
+The goal is to learn from the first table before adding more structure.
+
+
 ---
 
 ### 1. Progress Signals
