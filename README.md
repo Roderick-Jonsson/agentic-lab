@@ -2,7 +2,7 @@
 
 # Agentic Lab
 
-Agentic Lab is a continous team system for AI practitioners to find commited work buddies to overcome shared blockers, help complete visible work, and successfully small shipped artefacts.
+Agentic Lab is a continuous team system for AI practitioners to find committed work buddies to overcome shared blockers, help complete visible work, and successfully ship small artefacts.
 
 Teams are formed for a 2-week period. After that period teams are free to disband, continue, renew, or remix.
 
@@ -17,9 +17,9 @@ Already Interested? [Request an invite](mailto:....)
 The Agentic Lab is for people who:
 
 - are working on a real AI-related challenge
-- need commited work buddies or sparring partners
+- need committed work buddies or sparring partners
 - want to build trust and connection through work and collaboration
-- are commited to contribute regularly
+- are committed to contribute regularly
 - can share progress openly
 
 ## Expected goals
