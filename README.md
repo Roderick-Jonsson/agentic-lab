@@ -10,7 +10,7 @@ Teams are formed for a 2-week period. After that period teams are free to disban
 
 Currently, we are building a new team of 3–5 serious builders.
 
-Already Interested? [Request an invite](mailto:....)
+Already Interested? [Request an invite](mailto:agenticlab@ctrlaltroot.com)
 
 ## Who This Is For
 
@@ -243,4 +243,4 @@ The table stays active. The person can join another later table when timing fits
 
 ## Next Steps
 
-Already Interested? [Request an invite](mailto:....)
+Already Interested? [Request an invite](mailto:agenticlab@ctrlaltroot.com)
